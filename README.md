@@ -18,7 +18,7 @@ This application can allow you to see the nine most recent movies that are avail
 
 ## Installation
 
-To view the application on the browser, just click on the link: (insert link)
+To view the application on the browser, just click on the link: https://elvisdiaz1.github.io/movie-rater/
 
 This is a react app but there are no dependencies needed to install.
 
